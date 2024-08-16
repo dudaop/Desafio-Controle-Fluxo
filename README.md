@@ -12,20 +12,12 @@ Scanner: Para entrada de dados via terminal.
 Tratamento de Exceções: Utilização de try-catch para capturar e tratar exceções customizadas.
 
 ## 🚀 Como Executar
-- Clone o Repositório:
-
-bash
-Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
-Compile o Projeto:
-Compile as classes ParametrosInvalidosException e Contador.
-
-- Execute a Classe Principal:
-
-bash
-Copiar código
-java Contador
-Siga as instruções no terminal para inserir os dois números.
+1. Certifique-se de ter o Java instalado no seu sistema.
+2. Clone este repositório ou copie o código para sua máquina local.
+3. Compile e execute o arquivo `ContaTerminal.java`.
+4. Insira as informações solicitadas no terminal.
+5. Utilize o menu de opções para realizar depósitos, saques, verificar o saldo ou sair do programa.
+6. Veja a mensagem de confirmação com os dados da conta e o saldo atualizado após cada operação.
 
 ## 📄 Estrutura do Projeto
 ParametrosInvalidosException.java: Classe responsável por representar a exceção customizada.
