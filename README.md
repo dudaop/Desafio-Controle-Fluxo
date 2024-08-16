@@ -7,9 +7,9 @@ Este projeto é parte de um desafio de controle de fluxo em Java. O objetivo é 
 3. Exceção Customizada: Se o primeiro número for maior que o segundo, uma exceção ParametrosInvalidosException é lançada.
 
 ## 🛠️ Tecnologias Utilizadas
-Java: Linguagem principal usada para o desenvolvimento do projeto.
-Scanner: Para entrada de dados via terminal.
-Tratamento de Exceções: Utilização de try-catch para capturar e tratar exceções customizadas.
+- Java: Linguagem principal usada para o desenvolvimento do projeto.
+- Scanner: Para entrada de dados via terminal.
+- Tratamento de Exceções: Utilização de try-catch para capturar e tratar exceções customizadas.
 
 ## 🚀 Como Executar
 1. Certifique-se de ter o Java instalado no seu sistema.
@@ -20,12 +20,11 @@ Tratamento de Exceções: Utilização de try-catch para capturar e tratar exce�
 6. Veja a mensagem de confirmação com os dados da conta e o saldo atualizado após cada operação.
 
 ## 📄 Estrutura do Projeto
-ParametrosInvalidosException.java: Classe responsável por representar a exceção customizada.
-Contador.java: Classe principal onde a lógica do sistema é implementada.
+- ParametrosInvalidosException.java: Classe responsável por representar a exceção customizada.
+- Contador.java: Classe principal onde a lógica do sistema é implementada.
 
 ## ⚠️ Regras de Negócio
-O segundo número deve ser sempre maior que o primeiro.
-Caso contrário, o sistema lança uma exceção com a mensagem: "O segundo parâmetro deve ser maior que o primeiro".
+O segundo número deve ser sempre maior que o primeiro. Caso contrário, o sistema lança uma exceção com a mensagem: "O segundo parâmetro deve ser maior que o primeiro".
 
 ## 🎯 Objetivo
 Este projeto visa consolidar os conceitos de controle de fluxo, manipulação de exceções, e interação com o usuário via terminal em Java.
