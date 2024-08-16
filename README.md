@@ -14,7 +14,7 @@ Este projeto é parte de um desafio de controle de fluxo em Java. O objetivo é 
 ## 🚀 Como Executar
 1. Certifique-se de ter o Java instalado no seu sistema.
 2. Clone este repositório ou copie o código para sua máquina local.
-3. Compile e execute o arquivo `ContaTerminal.java`.
+3. Compile e execute os arquivos `Contador.java` e 'ParametrosInvalidosException.java'.
 4. Insira as informações solicitadas no terminal.
 5. Utilize o menu de opções para realizar depósitos, saques, verificar o saldo ou sair do programa.
 6. Veja a mensagem de confirmação com os dados da conta e o saldo atualizado após cada operação.
